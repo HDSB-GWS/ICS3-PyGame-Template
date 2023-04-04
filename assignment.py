@@ -31,6 +31,7 @@ def main():
     circleColor = (255, 0, 0)        # A color is a mix of (Red, Green, Blue)
     
     #Load an image
+    #Source - https://openmoji.org/library/emoji-1F600/
     faceImage = pygame.image.load("images/grinning-face_1f600.png")
 
 
